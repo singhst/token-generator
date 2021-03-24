@@ -98,10 +98,10 @@ class Storage:
 if __name__ == "__main__":
     global_storage = Storage()
 
-    print("\n==== System initialization")
+    print("\n==== System initialization, the default data format of global")
     print(global_storage.global_storage_dict)
 
-    print("\n==== an user log in")
+    print("\n==== an user log in, adds the global to dict type class var")
     # 1.
     # situation:    an user log in
     # process:      (1) generate token (2) generate global
