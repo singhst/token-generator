@@ -1,6 +1,6 @@
 # token-generator
 
-A simple demo using Python `class` and `object` to simulate "refreshing token generation" action.
+A simple demo using Python `class` and `object` to store data and to simulate "refreshing token generation" action.
 
 
 
